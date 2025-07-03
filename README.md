@@ -80,7 +80,7 @@ pip install torch transformers scikit-learn pandas numpy tqdm matplotlib seaborn
 
 ```
 ##  citations :
-
+```bash
 @article{antoun2020arabert,
   title = {AraBERT: Transformer-based Model for Arabic Language Understanding},
   author = {Wissam Antoun and Fady Baly and Hazem Hajj},
@@ -99,3 +99,4 @@ pip install torch transformers scikit-learn pandas numpy tqdm matplotlib seaborn
   journal = {arXiv preprint arXiv:2506.05176},
   year = {2025}
 }
+```
