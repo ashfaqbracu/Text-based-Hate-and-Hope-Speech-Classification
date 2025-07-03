@@ -77,6 +77,8 @@ For Qwen3, ensure your system has enough GPU memory (e.g., RTX 4090 or Google Co
 
 ```bash
 pip install torch transformers scikit-learn pandas numpy tqdm matplotlib seaborn
+
+```
 citations :
 @article{antoun2020arabert,
   title = {AraBERT: Transformer-based Model for Arabic Language Understanding},
